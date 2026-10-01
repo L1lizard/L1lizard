@@ -1,4 +1,6 @@
-## Hi there 👋
+## LBU Student
+> Caitlyn Spiller // She/Her/idc // @L1lizard on everything
+
 
 <!--
 **L1lizard/L1lizard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
